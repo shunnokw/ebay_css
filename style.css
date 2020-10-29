@@ -423,16 +423,18 @@ nav ul li a {
 .product-description .title span {
   font-weight: 700;
 }
+
+/*  Edit product description here */
 .product-description .content {
   margin: 10px 20px 0 50px;
-  font-size: 13px;
+  font-size: 15px;
   line-height: 1.5;
   font-family: "Roboto", sans-serif;
 }
 .product-description .content table {
   margin-bottom: 20px;
   font-family: "Roboto", sans-serif;
-  font-size: 13px;
+  font-size: 15px;
 }
 .product-description .content td:first-child {
   padding-right: 50px;
@@ -441,10 +443,12 @@ nav ul li a {
 .product-description .content td {
   padding-bottom: 5px;
 }
+
+/* Edit content small title here */
 .product-description .content .content-title {
   font-family: "Raleway", sans-serif;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 20px;
   text-transform: uppercase;
 }
 .product-description .content .content-title span {
