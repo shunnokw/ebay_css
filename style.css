@@ -79,7 +79,7 @@ nav ul li a {
 .banner {
   display: block;
   overflow: hidden;
-  background: url(images/bg.jpg) no-repeat;
+  background: url(bg.jpeg) no-repeat;
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   position: relative;
